@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-137.8 343.6 154.6 495.8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cbcbcb;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-8 {
+        stroke: #8b959f;
+        stroke-miterlimit: 22.926;
+        stroke-width: 4px;
+      }
+
+      .cls-9 {
+        stroke: #21b149;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-10 {
+        fill: #21b249;
+        opacity: 0.5;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="137.3" height="91.9"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.024" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#616166"/>
+      <stop offset="0.21" stop-color="#9b9b9b"/>
+      <stop offset="1" stop-color="#48484f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.024" y1="0.499" x2="1" y2="0.499" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.024" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0.024" y1="0.499" x2="1" y2="0.499" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="tower_f" transform="translate(-328.5 128)">
+    <g id="Group_17" data-name="Group 17">
+      <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-1" width="154.6" height="4.3" transform="translate(190.7 221.9)"/>
+    </g>
+    <g id="Group_19" data-name="Group 19">
+      <g id="Group_18" data-name="Group 18" class="cls-2" transform="translate(199.4 229)">
+        <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-3" width="137.3" height="91.9"/>
+      </g>
+    </g>
+    <g id="Group_20" data-name="Group 20">
+      <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-1" width="154.6" height="4.3" transform="translate(190.7 627.7)"/>
+    </g>
+    <g id="Group_22" data-name="Group 22">
+      <g id="Group_21" data-name="Group 21" class="cls-2" transform="translate(199.4 330.5)">
+        <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-4" width="137.3" height="91.9"/>
+      </g>
+    </g>
+    <g id="Group_24" data-name="Group 24">
+      <g id="Group_23" data-name="Group 23" class="cls-2" transform="translate(199.4 431.9)">
+        <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-5" width="137.3" height="91.9"/>
+      </g>
+    </g>
+    <g id="Group_26" data-name="Group 26">
+      <g id="Group_25" data-name="Group 25" class="cls-2" transform="translate(199.4 533.4)">
+        <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-6" width="137.3" height="91.9"/>
+      </g>
+    </g>
+    <path id="Path_1" data-name="Path 1" class="cls-7" d="M259.3,711.4l-59.9-76.6H336.7l-60,76.6Z"/>
+    <line id="Line_17" data-name="Line 17" class="cls-8" x2="47.1" transform="translate(244.5 217.6)"/>
+    <path id="Path_2" data-name="Path 2" class="cls-9" d="M266.7,694.1H216.2a10.029,10.029,0,0,1-10-10V660.2a10.029,10.029,0,0,1,10-10h50.5a10.029,10.029,0,0,1,10,10v23.9A10.029,10.029,0,0,1,266.7,694.1Z"/>
+    <rect id="karnalit" class="cls-10" width="118.5" height="393.5" transform="translate(208.6 229.2)"/>
+    <g id="HR">
+      <g id="Group_123" data-name="Group 123">
+        <rect id="Rectangle_13" data-name="Rectangle 13" class="cls-1" width="154.6" height="4.3" transform="translate(190.7 424.8)"/>
+      </g>
+      <g id="Group_124" data-name="Group 124">
+        <rect id="Rectangle_14" data-name="Rectangle 14" class="cls-1" width="154.6" height="4.3" transform="translate(190.7 526.2)"/>
+      </g>
+      <g id="Group_125" data-name="Group 125">
+        <rect id="Rectangle_15" data-name="Rectangle 15" class="cls-1" width="154.6" height="4.3" transform="translate(190.7 323.3)"/>
+      </g>
+    </g>
+  </g>
+</svg>

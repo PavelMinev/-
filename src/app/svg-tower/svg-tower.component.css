@@ -1,0 +1,91 @@
+.selected{
+	color: red;
+}
+
+.cls-1 {
+	fill: #cbcbcb;
+}
+
+.cls-2 {
+	clip-path: url(#clip-path);
+}
+
+.cls-3 {
+	fill: url(#linear-gradient);
+}
+
+.cls-4 {
+	fill: url(#linear-gradient-2);
+}
+
+.cls-5 {
+	fill: url(#linear-gradient-3);
+}
+
+.cls-6 {
+	fill: url(#linear-gradient-4);
+}
+
+.cls-7 {
+	fill: url(#linear-gradient-5);
+}
+
+.cls-8, .cls-9 {
+	fill: none;
+}
+
+.cls-8 {
+	stroke: #8b959f;
+	stroke-miterlimit: 22.926;
+	stroke-width: 4px;
+}
+
+.cls-9 {
+	stroke: #21b149;
+	stroke-miterlimit: 10;
+	stroke-width: 3px;
+}
+
+.cls-10 {
+	fill: #21b249;
+	opacity: 0.5;
+}
+
+.cls-11 {
+	fill: #2D2D32;
+	opacity: 1;
+}
+
+.tower-title {
+	position: absolute;
+	top: 5px;
+	text-align: center;
+	width: 100%;
+	color: white;
+}
+
+.tower-value {
+	position: absolute;
+	text-align: center;
+	color: white;
+	top: 70px;
+	width: 40%;
+	left: 30%;
+	border-bottom: 3px solid;
+	font-size: 22px;
+}
+
+.tower-mass-title{
+	color: white;
+	width: 100%;
+	text-align: center;
+}
+
+.tower-mass-value{
+	color: white;
+	width: 50%;
+	margin-left: 25%;
+	text-align: center;
+	font-size: 22px;
+	border-bottom: 3px solid;
+}

@@ -1,0 +1,8 @@
+<h2>Indicators</h2>
+<ul class="indicators">
+	<li class="tower" *ngFor="let indicator of indicators">
+		<div class="tower-container">
+			<app-svg-tower [indicator]="indicator"></app-svg-tower>
+		</div>
+	</li>
+</ul>

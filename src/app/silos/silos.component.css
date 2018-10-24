@@ -1,0 +1,17 @@
+.indicators{
+	list-style: none;
+}
+
+.tower{
+	width: 11%;
+	float: left;
+	margin-right: 1.5%;
+	font-family: Segoe UI, Arial, sans-serif;
+	font-size: 14px;
+}
+
+.tower-container {
+	padding-top: 120px;
+	position: relative;
+}
+
